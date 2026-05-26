@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm MD RAIYAN RAZA KHAN - a passionate and curious software developer currently in my pre-final year of engineering. I thrive at the intersection of problem-solving, web development, and emerging technologies like Generative AI.
+Hi, I'm MD RAIYAN RAZA KHAN - a passionate and curious software developer currently in my final year of engineering. I thrive at the intersection of problem-solving, web development, and emerging technologies like Generative AI.
 
 
 ## 🌐 Socials:
